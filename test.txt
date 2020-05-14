@@ -4,3 +4,4 @@ Addin new version1.2
 Addin new version1.3
 new line
 newline 2
+new line 3
